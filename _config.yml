@@ -52,8 +52,6 @@ github: [metadata]
 author: naraee.github.io
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
-#asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
-#asset_url: //t1.daumcdn.net/osa/blog/assets
 google_analytics:
   ua: 'UA-108920185-1'
 facebook:
